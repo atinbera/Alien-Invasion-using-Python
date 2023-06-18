@@ -1,4 +1,4 @@
-Alien Inovation is a simple Python game where I control a rocket ship to defend your planet from invading aliens.
+Alien Inovation is a simple Python game where you can control a rocket ship to defend your planet from invading aliens.
 
 Installation
 To install the game, you will need Python 3 and the Pygame library. You can install Pygame with the following command:
